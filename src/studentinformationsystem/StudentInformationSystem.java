@@ -20,6 +20,7 @@ public class StudentInformationSystem {
         int mark2 = 90;
         int total = mark1 + mark2;
         System.out.println("Total Marks:" + total);
+        // Calculate and display student result
         
         if (total >= 160) {
             System.out.println("Excellent!");
