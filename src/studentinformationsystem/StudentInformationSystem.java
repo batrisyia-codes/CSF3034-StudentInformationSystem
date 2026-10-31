@@ -14,7 +14,7 @@ public class StudentInformationSystem {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Student Name: Nur Auni Batrisyia Binti Mohamad Nizam");
+        System.out.println("Student Name: Nur Auni Batrisyia Binti Mohamad Nizam (UMT)");
         System.out.println("Student ID: S84857");
         int mark1 = 85;
         int mark2 = 90;
